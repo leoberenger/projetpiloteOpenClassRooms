@@ -1,5 +1,5 @@
 <?php 
 
-echo "Bienvenus!"
+echo "Vous êtes les bienvenus sur mon site!"
 
 ?>
