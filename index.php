@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="stylesheet" media="screen" type="text/css" title="Design" href="" />
-<title>Prototype</title>
+<title>Un site où on vous souhaite la bienvenue!</title>
 </head>
 
 <body>
